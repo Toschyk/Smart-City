@@ -50,7 +50,7 @@
 
 ## 3. Архитектура системы  
 ### 3.1. Компоненты  
-![Архитектура Smart City](https://github.com/Toschyk/D194-2/blob/main/architect.md)  
+![Архитектура Smart City](https://github.com/Toschyk/Smart-City/blob/main/Architect.md)  
 
 #### 3.1.1. IoT-Устройства (Edge Layer)  
 - Датчики трафика, экологии, умные счетчики.  
